@@ -1,0 +1,17 @@
+{
+  "name": "alberi",
+  "version": "1.0.0-alpha",
+  "description": "A minimalist form validation library.",
+  "main": "alberi.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoLopesLima/alberi.git"
+  },
+  "keywords": [],
+  "author": "Diego Lopes Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoLopesLima/alberi/issues"
+  },
+  "homepage": "https://github.com/DiegoLopesLima/alberi#readme"
+}
