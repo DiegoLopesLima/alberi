@@ -7,7 +7,17 @@
     "type": "git",
     "url": "git+https://github.com/DiegoLopesLima/alberi.git"
   },
-  "keywords": [],
+  "keywords": [
+    "form",
+    "validation",
+    "library",
+    "client-side",
+    "validate",
+    "validator",
+    "javascript",
+    "npm",
+    "package"
+  ],
   "author": "Diego Lopes Lima",
   "license": "MIT",
   "bugs": {
